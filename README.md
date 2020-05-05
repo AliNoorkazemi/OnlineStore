@@ -3,5 +3,5 @@
 online store is a java project to develop my advance programming skill
 
 ```bash
-this project must to run in terminal(not a IDE)
+this project must be run in terminal(not a IDE)
 ```
